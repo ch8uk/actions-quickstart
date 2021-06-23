@@ -1,2 +1,2 @@
 # actions-quickstart
-just following an the quick start guide
+just following the quick start guide at https://docs.github.com/en/actions/quickstart
